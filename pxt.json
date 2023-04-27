@@ -1,14 +1,15 @@
 {
     "name": "maqueenCalliope",
     "description": "",
+    "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
+        "_locales/zh-cn/maqueenCalliope-strings.json",
+        "_locales/zh-cn/maqueenCalliope-jsdoc-strings.json",
         "README.md",
         "maqueenCalliope.ts"
     ],

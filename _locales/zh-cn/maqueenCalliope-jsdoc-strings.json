@@ -1,0 +1,15 @@
+{
+    "maqueenCalliope": "",
+    "maqueenCalliope.ultrasonic": "读取超声波传感器",
+    "maqueenCalliope.servoRun": "控制舵机旋转一定角度",
+    "maqueenCalliope.motorRun": "设置电机运行的方向与速度",
+    "maqueenCalliope.motorStop": "停止电机运行",
+    "maqueenCalliope.writeLED": "打开/关闭 LED灯",
+    "maqueenCalliope.setColor": "RGB灯显示颜色",
+    "maqueenCalliope.setRgb": "设置RGB灯的三种原色",
+    "maqueenCalliope.readPatrol": "获取巡线传感器状态",
+    "maqueenCalliope.getVersion": "获取Maqueen版本号",
+    "maqueenCalliope.irRead": "获取红外传感器的值",
+    "maqueenCalliope.irEvent": "红外传感器事件回调函数"
+    
+}
