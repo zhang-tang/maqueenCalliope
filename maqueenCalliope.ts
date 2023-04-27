@@ -1,7 +1,7 @@
 
 
 
-//% weight=100 color=#9999FF icon="\uf136" block=MaqueenCalliope
+//% weight=100 color=#9999FF icon="\uf136" block=Maqueen
 namespace maqueenCalliope {
 
     export enum DistanceUnit {
